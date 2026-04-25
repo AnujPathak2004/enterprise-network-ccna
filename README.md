@@ -107,11 +107,6 @@ This project demonstrates a multi-site enterprise network built using Cisco Pack
 <img width="1853" height="708" alt="ACL working" src="https://github.com/user-attachments/assets/a7425be9-38df-4009-8483-e026136b8e53" />
 
 
----
-
-## 📂 Project Files
-
-https://1drv.ms/f/c/4eaaf568453e5a9e/IgA6VvBJoNepRYL-3OwbVMjcATyWhR81ZOwim2AF34n7BPg?e=barjg3→ All device configurations
 
 ---
 
