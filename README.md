@@ -111,8 +111,7 @@ This project demonstrates a multi-site enterprise network built using Cisco Pack
 
 ## 📂 Project Files
 
-https://1drv.ms/u/c/4eaaf568453e5a9e/IQAgw83pzJJ_SrQpkzcOeIugATrdo3eSJiVTBmDee_PorPc?e=59NZsV→ Packet Tracer file
-https://1drv.ms/f/c/4eaaf568453e5a9e/IgDDayTr8G5STJikqLLkNH0NASnlf7DQerVaH055YnOP4OQ?e=IyUFVC→ All device configurations
+https://1drv.ms/f/c/4eaaf568453e5a9e/IgA6VvBJoNepRYL-3OwbVMjcATyWhR81ZOwim2AF34n7BPg?e=barjg3→ All device configurations
 
 ---
 
